@@ -11,7 +11,7 @@
 (function () {
    'use strict';
     var user="21115288"
-    var password="036513"
+    var password="034343"
     var newpage="https://www.baidu.com"
    window.onload = function () {
       document.querySelector('#edit_body > div.edit_row.ui-resizable-autohide > div.edit_loginBox.normal_box.random.loginuse.loginuse_pc.ui-resizable-autohide > form > input:nth-child(3)').value = user;
